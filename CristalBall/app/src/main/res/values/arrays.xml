@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="igra">
+        <item>"Деньги"</item>
+        <item>"Любовь"</item>
+        <item>"Удача"</item>
+        <item>"Повышение"</item>
+        <item>"Смерть"</item>
+    </string-array>
+</resources>
